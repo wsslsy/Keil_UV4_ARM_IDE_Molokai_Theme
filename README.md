@@ -58,6 +58,8 @@ Sublime Text 3是一款专用于提升开发效率的文本编辑器。经过笔
 ##完成
 你可以开始享受 Molokai 主题的 Keil IDE 了。
 
+![image](https://github.com/wsslsy/Keil_UV4_ARM_IDE_Molokai_Theme/blob/master/Molokai%20for%20Keil.png)
+
 ##一些问题
 由于Keil的语法高亮支持不完备，所以笔者修改了`arm.prop`中的用户关键词以及`global.prop.def`中的默认C语言关键词，同时很贴心的添加了`野火STM32库`中一些关键字的支持。注意到Keil IDE其实连像`printf();`这样的函数都没有高亮支持，没忍住强迫症，把类似这样的函数名全给高亮了。但是毕竟会有疏忽之处，希望使用主题的大家也能给我提出改进意见和建议。有之前按照自己习惯设置关键词的用户，也请提前做好备份，以免数据丢失。
 **另：请勿随意改动该三文件内容，以免软件不能正常工作。**
