@@ -1,0 +1,20 @@
+# C/CPP Editor files
+# User keywords
+keywords6.$(file.patterns.cpp)=bool char char16_t char32_t class const const_cast double enum float \
+int long short signed static static_assert static_cast struct typedef uint16_t \
+uint32_t uint8_t union unsigned void volatile int8_t int16_t int32_t size_t fpos_t FILE tmpfile tmpnam uint8 uint16 uint32 int8 int16 int32
+
+
+
+# Asm Editor files
+# User keywords
+keywords6.$(file.patterns.asm)=
+
+
+
+# Editor Text files
+# User keywords
+keywords6.$(file.patterns.txt)=
+
+
+
